@@ -1,0 +1,9 @@
+- 👋 สวัสดีครับ ผม อู๋ตี้
+- 👀 ก็แอบมองอยู่
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+FB: AUUTY MIZK
+--->
